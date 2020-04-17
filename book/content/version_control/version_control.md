@@ -18,7 +18,7 @@ Version control is often associated with writing code, but it can also be used w
 For example, if you are writing a paper with collaborators then version control is really important in helping you to see who has changed what.
 Version control is used to some extent within many different programs, including ones you are likely to already be familiar with such as Word or Wordpress.
 There are numerous tools available for version control such as [Mercurial](https://www.mercurial-scm.org/) and [SVN](https://subversion.apache.org/).
-The best know one is Git (and its web-based version, [GitHub](https://github.com/), which aids collaboration between researchers) which the instructions given in this chapter will be geared towards.
+The best known one is Git (and its web-based version, [GitHub](https://github.com/), which aids collaboration between researchers) which the instructions given in this chapter will be geared towards.
 There are a large number of detailed tutorials available online discussing the features and mechanics of how to use such systems (see the "[Further reading](#further-reading)" section at the end of the chapter).
 This chapter aims to cover the general principles underpinning all version control systems, and best practice which applies for using all such systems.
 
